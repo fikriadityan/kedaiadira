@@ -286,7 +286,6 @@ body {
   justify-content: left;
   align-items: center;
   margin-top: 30px;
-  /* text-align: left; */
 }
 
 .container .contactInfo {
@@ -313,7 +312,7 @@ body {
 .container .contactInfo .box .text {
   display: flex;
   margin-left: 20px;
-  font-size: 13px;
+  font-size: 16px;
   color: #fff;
   flex-direction: column;
   font-weight: 200;
@@ -321,8 +320,7 @@ body {
 
 .container .contactInfo .box .text h3 {
   font-weight: 500;
-  color: var(--primary);
-  text-align: left;
+  color: #f6d604;
 }
 
 .container .contactInfo .box .text p {
