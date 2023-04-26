@@ -318,6 +318,13 @@ body {
   font-weight: 200;
 }
 
+.container .contactInfo .box .text a {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-weight: 500;
+}
+
 .container .contactInfo .box .text h3 {
   font-weight: 500;
   color: #f6d604;
